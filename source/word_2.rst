@@ -94,9 +94,8 @@
 ZoteroやMendeley, EndNoteなどが有名です。有料のものだとPaperpileが(個人的には)おすすめ。
 
 | EndNoteについては京大生であれば無料で利用でき、講習会なども開かれています。
-| 2020年度に開催された講習会「文献管理ツールの使い方-EndNote Basic」の録画が公開されています。
-| 録画: `録画保管場所のリンク <https://cls.iimc.kyoto-u.ac.jp/portal/site/6c851694-057e-4a42-885e-0f38d4a61af4/page/c7cc5d1d-c671-4380-9f2e-df795a3e4118>`_
-| 資料: `資料のリンク <https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/255602>`_
+| 資料や講習会「文献管理ツールの使い方-EndNote Basic」等が公開されています。
+| 資料: `資料のリンク <https://www.kulib.kyoto-u.ac.jp/erdb/13511>`_
 
 | 文献管理ソフトの多くはWordと連携していることが多く、論文を引用する際にフォーマット等を自動で整えてくれます。
 | 皆さんはまだまだ先の話かと思いますが、論文を書く際には、場合によっては100近くの論文を引用するため非常に便利な機能になります。
