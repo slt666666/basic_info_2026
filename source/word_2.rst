@@ -155,7 +155,7 @@ ZoteroやMendeley, EndNoteなどが有名です。有料のものだとPaperpile
 
 校閲機能の練習
 ---------------------------
-| 試しに `[こちらの練習ファイル6] <_static/documents/word/practice5.docx>`_ をダウンロードして、校閲機能を使ってみましょう。
+| 試しに `[こちらの練習ファイル6] <_static/documents/word/practice6.docx>`_ をダウンロードして、校閲機能を使ってみましょう。
 | 修正部分を承認したり、元に戻したり、コメントを返したりしてみてください。
 
 
