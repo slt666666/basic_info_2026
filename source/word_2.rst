@@ -78,7 +78,7 @@
 | アウトラインで見出しレベルをしっかり決めておけば、見出しごとドラッグ（または Alt+Shift+↑↓）すると、配下の本文ごと章を移動できます。
 | そう多くは無いですが、章の順番を入れ替えたい場合などに便利です。
 | 「1行目のみ表示」にした状態で正しい順に並べ替えさせるのも良いかもしれません。
-| 試しに`[こちらの練習ファイル5] <_static/documents/word/practice5.docx>`_ をダウンロードして、見出しをIntroduction → Materials & Methods → Results → Discussionに並び替えてみてください。
+| 試しに `[こちらの練習ファイル5] <_static/documents/word/practice5.docx>`_ をダウンロードして、見出しをIntroduction → Materials & Methods → Results → Discussionに並び替えてみてください。
 
 **ページ番号を本文から始める**
 
@@ -86,7 +86,7 @@
 | ページ番号を途中から始める場合は、まず前回扱ったレイアウトタブの区切りから、セクション区切りでレイアウトを分けます。
 | そして挿入タブからページ番号を入れます。その後、本文側のフッターで「前と同じヘッダー/フッター」を解除してから、ページ番号の書式で開始番号を1にします。
 | これで本文側のページ番号が1から始まるようになります。
-| 上の練習ファイル5または`[先ほどのサンプルWordファイル] <_static/documents/word/practice4.docx>`_に、目次を入れて、ページ番号を本文から始めてみましょう。
+| 上の練習ファイル5または `[先ほどのサンプルWordファイル] <_static/documents/word/practice4.docx>`_に、目次を入れて、ページ番号を本文から始めてみましょう。
 
 .. figure:: _static/images/word/page_number2.png
 
@@ -151,7 +151,7 @@ ZoteroやMendeley, EndNoteなどが有名です。有料のものだとPaperpile
 
 校閲機能の練習
 ---------------------------
-| 試しに`[こちらの練習ファイル6] <_static/documents/word/practice5.docx>`_ をダウンロードして、校閲機能を使ってみましょう。
+| 試しに `[こちらの練習ファイル6] <_static/documents/word/practice5.docx>`_ をダウンロードして、校閲機能を使ってみましょう。
 | 修正部分を承認したり、元に戻したり、コメントを返したりしてみてください。
 
 
